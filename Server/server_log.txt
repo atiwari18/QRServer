@@ -1,0 +1,366 @@
+2024-04-30 21:14:27 127.0.0.1 Connection accepted
+2024-04-30 21:14:34 127.0.0.1 Received image size: 1589 bytes
+2024-04-30 21:14:34 127.0.0.1 Image reception completed
+[Wed May  1 08:45:57 2024] Server listening on port 2012...
+[Wed May  1 08:46:01 2024] New connection accepted from 127.0.0.1:46008
+[Wed May  1 08:46:04 2024] New connection accepted from 127.0.0.1:46014
+[Wed May  1 08:46:07 2024] New connection accepted from 127.0.0.1:46028
+[Wed May  1 08:46:10 2024] New connection accepted from 127.0.0.1:42962
+[Wed May  1 08:46:10 2024] New connection accepted from 127.0.0.1:42962
+[Wed May  1 08:46:10 2024] Server busy. Connection terminated.
+Server listening on port 2345...
+New connection accepted from 127.0.0.1:35746
+Connected Users: 0
+Request count for client 127.0.0.1: 0
+Connected Users: 1
+SENDING BUSY SERVER MESSAGE
+Server busy. Connection from 127.0.0.1 terminated.
+New connection accepted from 127.0.0.1:40376
+Connected Users: 2
+SENDING BUSY SERVER MESSAGE
+Server busy. Connection from 127.0.0.1 terminated.
+Request count for client 127.0.0.1: 0
+Request count for client 127.0.0.1: 1
+127.0.0.1 has disconnected.
+2024-05-01 09:49:50 Server listening on port 2345...
+2024-05-01 09:49:58 Server listening on port 2002...
+2024-05-01 09:49:58 Server listening on port 2002...
+2024-05-01 09:50:08 New connection accepted from 127.0.0.1:43696
+2024-05-01 09:50:08 Connected Users: 0
+2024-05-01 09:50:11 Request count for client 127.0.0.1: 0
+2024-05-01 09:50:11 Received image size: 1589 bytes
+2024-05-01 09:50:11 Image reception completed
+2024-05-01 09:50:12 Connected Users: 1
+2024-05-01 09:50:12 SENDING BUSY SERVER MESSAGE
+2024-05-01 09:50:12 Server busy. Connection from 127.0.0.1 terminated.
+2024-05-01 09:49:58 Server listening on port 2002...
+2024-05-01 09:49:58 Server listening on port 2002...
+2024-05-01 09:50:08 New connection accepted from 127.0.0.1:43696
+2024-05-01 09:50:20 New connection accepted from 127.0.0.1:53400
+2024-05-01 09:50:20 Connected Users: 0
+2024-05-01 09:50:25 Request count for client 127.0.0.1: 0
+2024-05-01 09:50:25 Received image size: 1589 bytes
+2024-05-01 09:50:25 Image reception completed
+2024-05-01 09:50:26 Connected Users: 1
+2024-05-01 09:50:26 SENDING BUSY SERVER MESSAGE
+2024-05-01 09:50:26 Server busy. Connection from 127.0.0.1 terminated.
+2024-05-01 09:51:48 Server listening on port 2002...
+2024-05-01 09:51:48 Server listening on port 2002...
+2024-05-01 09:51:55 New connection accepted from 127.0.0.1:56408
+2024-05-01 09:51:55 Connected Users: 0
+2024-05-01 09:52:02 Request count for client 127.0.0.1: 0
+2024-05-01 09:52:02 Received image size: 1589 bytes
+2024-05-01 09:52:02 Image reception completed
+2024-05-01 09:52:02 Connected Users: 1
+2024-05-01 09:52:02 SENDING BUSY SERVER MESSAGE
+2024-05-01 09:52:02 Server busy. Connection from 127.0.0.1 terminated.
+2024-05-01 09:52:34 Server listening on port 2002...
+2024-05-01 09:52:59 Server listening on port 2012...
+2024-05-01 09:52:59 Server listening on port 2012...
+2024-05-01 09:53:02 New connection accepted from 127.0.0.1:58602
+2024-05-01 09:53:16 New connection accepted from 127.0.0.1:60232
+2024-05-01 09:53:16 Connected Users: 2
+2024-05-01 09:53:16 SENDING BUSY SERVER MESSAGE
+2024-05-01 09:53:16 Server busy. Connection from 127.0.0.1 terminated.
+2024-05-01 09:52:59 Server listening on port 2012...
+2024-05-01 09:52:59 Server listening on port 2012...
+2024-05-01 09:53:02 New connection accepted from 127.0.0.1:58602
+2024-05-01 09:53:02 Connected Users: 0
+2024-05-01 09:53:06 Request count for client 127.0.0.1: 0
+2024-05-01 09:53:06 Received image size: 1589 bytes
+2024-05-01 09:53:06 Image reception completed
+2024-05-01 09:53:07 Connected Users: 1
+2024-05-01 09:53:28 Request count for client 127.0.0.1: 1
+2024-05-01 09:53:28 Received image size: 1 bytes
+2024-05-01 09:53:28 127.0.0.1 has disconnected.
+2024-05-01 09:57:45 Server listening on port 2012...
+2024-05-01 09:57:45 Server listening on port 2012...
+2024-05-01 09:57:49 New connection accepted from 127.0.0.1:59020
+2024-05-01 09:57:49 Connected Users: 0
+2024-05-01 09:57:50 Timeout occurred for client. Connection closed.
+2024-05-01 10:05:26 Server listening on port 2012...
+2024-05-01 10:05:26 Server listening on port 2012...
+2024-05-01 10:05:29 New connection accepted from 127.0.0.1:37238
+2024-05-01 10:05:29 Connected Users: 0
+2024-05-01 10:05:30 Timeout occurred for client. Connection closed.
+2024-05-01 10:05:47 Server listening on port 2012...
+2024-05-01 10:05:47 Server listening on port 2012...
+2024-05-01 10:05:51 New connection accepted from 127.0.0.1:40654
+2024-05-01 10:06:01 New connection accepted from 127.0.0.1:45266
+2024-05-01 10:06:01 Connected Users: 2
+2024-05-01 10:06:01 SENDING BUSY SERVER MESSAGE
+2024-05-01 10:06:01 Server busy. Connection from 127.0.0.1 terminated.
+2024-05-01 10:05:47 Server listening on port 2012...
+2024-05-01 10:05:47 Server listening on port 2012...
+2024-05-01 10:05:51 New connection accepted from 127.0.0.1:40654
+2024-05-01 10:05:51 Connected Users: 0
+2024-05-01 10:05:57 Request count for client 127.0.0.1: 0
+2024-05-01 10:05:57 Received image size: 1589 bytes
+2024-05-01 10:05:57 Image reception completed
+2024-05-01 10:05:57 Connected Users: 1
+2024-05-01 10:06:16 Request count for client 127.0.0.1: 1
+2024-05-01 10:06:16 Received image size: 1 bytes
+2024-05-01 10:06:16 127.0.0.1 has disconnected.
+2024-05-01 10:27:42 Server listening on port 2012...
+2024-05-01 10:29:33 Server listening on port 2002...
+2024-05-01 10:29:33 Server listening on port 2002...
+2024-05-01 10:29:35 New connection accepted from 127.0.0.1:55444
+2024-05-01 10:30:17 New connection accepted from 127.0.0.1:33088
+2024-05-01 10:30:17 Connected Users: 2
+2024-05-01 10:30:17 SENDING BUSY SERVER MESSAGE
+2024-05-01 10:30:17 Server busy. Connection from 127.0.0.1:33088 terminated.
+2024-05-01 10:29:33 Server listening on port 2002...
+2024-05-01 10:29:33 Server listening on port 2002...
+2024-05-01 10:29:35 New connection accepted from 127.0.0.1:55444
+2024-05-01 10:29:35 Connected Users: 0
+2024-05-01 10:29:39 Received image size: 1589 bytes
+2024-05-01 10:29:39 Image reception completed
+2024-05-01 10:29:40 Connected Users: 1
+2024-05-01 10:30:38 Received image size: 1 bytes
+2024-05-01 10:30:38 127.0.0.1:55444 has disconnected.
+2024-05-01 10:30:59 Server listening on port 2002...
+2024-05-01 10:30:59 Server listening on port 2002...
+2024-05-01 10:31:03 New connection accepted from 127.0.0.1:38932
+2024-05-01 10:31:03 Connected Users: 0
+2024-05-01 10:31:07 Received image size: 1589 bytes
+2024-05-01 10:31:07 Image reception completed
+2024-05-01 10:31:07 Connected Users: 1
+2024-05-01 10:31:12 Received image size: 1589 bytes
+2024-05-01 10:31:12 Image reception completed
+2024-05-01 10:31:12 Connected Users: 2
+2024-05-01 10:31:16 Received image size: 1589 bytes
+2024-05-01 10:31:16 Image reception completed
+2024-05-01 10:31:17 Connected Users: 3
+2024-05-01 10:32:27 Connected Users: 4
+2024-05-01 10:32:27 SENDING BUSY SERVER MESSAGE
+2024-05-01 10:32:27 Server busy. Connection from 127.0.0.1:38932 terminated.
+2024-05-01 10:43:42 Server listening on port 2002...
+2024-05-01 10:43:42 Server listening on port 2002...
+2024-05-01 10:43:45 New connection accepted from 127.0.0.1:39138
+2024-05-01 10:43:45 Connected Users: 0
+2024-05-01 10:43:49 Received image size: 1589 bytes
+2024-05-01 10:43:49 Image reception completed
+2024-05-01 10:43:49 Connected Users: 2
+2024-05-01 10:45:09 Timeout occurred for client. Connection closed.
+2024-05-01 10:46:10 Server listening on port 2002...
+2024-05-01 10:46:10 Server listening on port 2002...
+2024-05-01 10:46:13 New connection accepted from 127.0.0.1:33420
+2024-05-01 10:46:13 Connected Users: 0
+2024-05-01 10:46:25 Received image size: 1589 bytes
+2024-05-01 10:46:25 Image reception completed
+2024-05-01 10:46:25 Connected Users: 2
+2024-05-01 10:46:34 Received image size: 1589 bytes
+2024-05-01 10:46:34 Image reception completed
+2024-05-01 10:46:34 Connected Users: 3
+2024-05-01 10:46:40 Received image size: 1589 bytes
+2024-05-01 10:46:40 Image reception completed
+2024-05-01 10:46:40 Connected Users: 4
+2024-05-01 10:46:40 SENDING BUSY SERVER MESSAGE
+2024-05-01 10:46:40 Server busy. Connection from 127.0.0.1:33420 terminated.
+2024-05-01 10:50:07 Server listening on port 2002...
+2024-05-01 10:50:07 Server listening on port 2002...
+2024-05-01 10:50:11 New connection accepted from 127.0.0.1:49698
+2024-05-01 10:50:20 Received image size: 1589 bytes
+2024-05-01 10:50:20 Image reception completed
+2024-05-01 10:50:44 Received image size: 1589 bytes
+2024-05-01 10:50:44 Image reception completed
+2024-05-01 10:50:49 Received image size: 1589 bytes
+2024-05-01 10:50:49 Image reception completed
+2024-05-01 10:51:55 Timeout occurred for client. Connection closed.
+2024-05-01 10:56:26 Server listening on port 2002...
+2024-05-01 10:56:46 Server listening on port 2012...
+2024-05-01 10:56:46 Server listening on port 2012...
+2024-05-01 10:56:52 New connection accepted from 127.0.0.1:33652
+2024-05-01 10:56:52 Connected Users: 0
+2024-05-01 10:56:55 Received image size: 7852 bytes
+2024-05-01 10:56:55 Image reception completed
+2024-05-01 10:56:55 Connected Users: 1
+2024-05-01 10:57:00 Received image size: 1589 bytes
+2024-05-01 10:57:00 Image reception completed
+2024-05-01 10:57:01 Connected Users: 2
+2024-05-01 10:57:06 Received image size: 1589 bytes
+2024-05-01 10:57:06 Image reception completed
+2024-05-01 10:57:06 Connected Users: 3
+2024-05-01 10:58:17 Connected Users: 4
+2024-05-01 10:58:17 SENDING BUSY SERVER MESSAGE
+2024-05-01 10:58:17 Server busy. Connection from 127.0.0.1:33652 terminated.
+2024-05-01 11:05:04 Server listening on port 2012...
+2024-05-01 11:08:20 Server listening on port 2002...
+2024-05-01 11:08:20 Server listening on port 2002...
+2024-05-01 11:08:23 New connection accepted from 127.0.0.1:42432
+2024-05-01 11:08:23 Connected Users: 0
+2024-05-01 11:08:28 Received image size: 7852 bytes
+2024-05-01 11:08:28 Image reception completed
+2024-05-01 11:08:28 Connected Users: 1
+2024-05-01 11:08:45 Received image size: 7852 bytes
+2024-05-01 11:08:45 Image reception completed
+2024-05-01 11:08:46 Connected Users: 2
+2024-05-01 11:08:50 Received image size: 1 bytes
+2024-05-01 11:08:50 127.0.0.1:42432 has disconnected.
+2024-05-01 11:16:32 Server listening on port 2002...
+2024-05-01 11:16:32 Server listening on port 2002...
+2024-05-01 11:16:36 New connection accepted from 127.0.0.1:42206
+2024-05-01 11:17:52 Server listening on port 2002...
+2024-05-01 11:17:52 Server listening on port 2002...
+2024-05-01 11:17:56 New connection accepted from 127.0.0.1:33942
+2024-05-01 11:17:56 Connected Users: 0
+2024-05-01 11:17:59 Received image size: 7852 bytes
+2024-05-01 11:17:59 Image reception completed
+2024-05-01 11:18:00 Connected Users: 1
+2024-05-01 11:18:03 Received image size: 7852 bytes
+2024-05-01 11:18:03 Image reception completed
+2024-05-01 11:18:03 Connected Users: 2
+2024-05-01 11:19:23 Timeout occurred for client. Connection closed.
+2024-05-01 11:21:06 Server listening on port 2002...
+2024-05-01 11:21:06 Server listening on port 2002...
+2024-05-01 11:21:11 New connection accepted from 127.0.0.1:33718
+2024-05-01 11:21:11 Connected Users: 0
+2024-05-01 11:21:15 Received image size: 7852 bytes
+2024-05-01 11:21:15 Image reception completed
+2024-05-01 11:21:15 Connected Users: 1
+2024-05-01 11:21:22 Received image size: 7852 bytes
+2024-05-01 11:21:22 Image reception completed
+2024-05-01 11:21:23 Connected Users: 1
+2024-05-01 11:21:33 Received image size: 7852 bytes
+2024-05-01 11:21:33 Image reception completed
+2024-05-01 11:21:34 Connected Users: 1
+2024-05-01 11:22:41 Connected Users: 2
+2024-05-01 11:22:41 Timeout occurred for client. Connection closed.
+2024-05-01 11:21:06 Server listening on port 2002...
+2024-05-01 11:21:06 Server listening on port 2002...
+2024-05-01 11:21:11 New connection accepted from 127.0.0.1:33718
+2024-05-01 11:22:31 New connection accepted from 127.0.0.1:34052
+2024-05-01 11:22:44 New connection accepted from 127.0.0.1:52828
+2024-05-01 11:23:27 New connection accepted from 127.0.0.1:37106
+2024-05-01 11:24:09 New connection accepted from 127.0.0.1:36998
+2024-05-01 11:24:09 Connected Users: 3
+2024-05-01 11:24:14 Received image size: 7852 bytes
+2024-05-01 11:24:14 Image reception completed
+2024-05-01 11:24:14 Connected Users: 4
+2024-05-01 11:24:14 SENDING BUSY SERVER MESSAGE
+2024-05-01 11:24:14 Server busy. Connection from 127.0.0.1:36998 terminated.
+2024-05-01 11:21:06 Server listening on port 2002...
+2024-05-01 11:21:06 Server listening on port 2002...
+2024-05-01 11:21:11 New connection accepted from 127.0.0.1:33718
+2024-05-01 11:22:31 New connection accepted from 127.0.0.1:34052
+2024-05-01 11:22:44 New connection accepted from 127.0.0.1:52828
+2024-05-01 11:23:27 New connection accepted from 127.0.0.1:37106
+2024-05-01 11:23:27 Connected Users: 2
+2024-05-01 11:24:02 Received image size: 7852 bytes
+2024-05-01 11:24:02 Image reception completed
+2024-05-01 11:24:02 Connected Users: 3
+2024-05-01 11:24:44 Received image size: 1 bytes
+2024-05-01 11:24:44 127.0.0.1:37106 has disconnected.
+2024-05-01 11:21:06 Server listening on port 2002...
+2024-05-01 11:21:06 Server listening on port 2002...
+2024-05-01 11:21:11 New connection accepted from 127.0.0.1:33718
+2024-05-01 11:22:31 New connection accepted from 127.0.0.1:34052
+2024-05-01 11:22:44 New connection accepted from 127.0.0.1:52828
+2024-05-01 11:22:44 Connected Users: 1
+2024-05-01 11:23:53 Received image size: 7852 bytes
+2024-05-01 11:23:53 Image reception completed
+2024-05-01 11:23:53 Connected Users: 3
+2024-05-01 11:24:45 Received image size: 1 bytes
+2024-05-01 11:24:45 127.0.0.1:52828 has disconnected.
+2024-05-01 11:21:06 Server listening on port 2002...
+2024-05-01 11:21:06 Server listening on port 2002...
+2024-05-01 11:21:11 New connection accepted from 127.0.0.1:33718
+2024-05-01 11:22:31 New connection accepted from 127.0.0.1:34052
+2024-05-01 11:22:31 Connected Users: 1
+2024-05-01 11:23:47 Received image size: 7852 bytes
+2024-05-01 11:23:47 Image reception completed
+2024-05-01 11:23:48 Connected Users: 3
+2024-05-01 11:24:48 Received image size: 1 bytes
+2024-05-01 11:24:48 127.0.0.1:34052 has disconnected.
+2024-05-01 11:24:58 Server listening on port 2002...
+2024-05-01 11:24:58 Server listening on port 2002...
+2024-05-01 11:25:02 New connection accepted from 127.0.0.1:58388
+2024-05-01 11:25:04 New connection accepted from 127.0.0.1:58396
+2024-05-01 11:25:10 New connection accepted from 127.0.0.1:57200
+2024-05-01 11:25:13 New connection accepted from 127.0.0.1:57214
+2024-05-01 11:25:13 Connected Users: 3
+2024-05-01 11:25:20 Received image size: 7852 bytes
+2024-05-01 11:25:20 Image reception completed
+2024-05-01 11:25:21 Connected Users: 4
+2024-05-01 11:25:21 SENDING BUSY SERVER MESSAGE
+2024-05-01 11:25:21 Server busy. Connection from 127.0.0.1:57214 terminated.
+2024-05-01 11:24:58 Server listening on port 2002...
+2024-05-01 11:24:58 Server listening on port 2002...
+2024-05-01 11:25:02 New connection accepted from 127.0.0.1:58388
+2024-05-01 11:25:02 Connected Users: 0
+2024-05-01 11:26:22 Timeout occurred for client. Connection closed.
+2024-05-01 11:24:58 Server listening on port 2002...
+2024-05-01 11:24:58 Server listening on port 2002...
+2024-05-01 11:25:02 New connection accepted from 127.0.0.1:58388
+2024-05-01 11:25:04 New connection accepted from 127.0.0.1:58396
+2024-05-01 11:25:04 Connected Users: 1
+2024-05-01 11:26:24 Timeout occurred for client. Connection closed.
+2024-05-01 11:24:58 Server listening on port 2002...
+2024-05-01 11:24:58 Server listening on port 2002...
+2024-05-01 11:25:02 New connection accepted from 127.0.0.1:58388
+2024-05-01 11:25:04 New connection accepted from 127.0.0.1:58396
+2024-05-01 11:25:10 New connection accepted from 127.0.0.1:57200
+2024-05-01 11:25:10 Connected Users: 2
+2024-05-01 11:26:30 Timeout occurred for client. Connection closed.
+2024-05-01 11:26:49 Server listening on port 2002...
+2024-05-01 11:26:49 Server listening on port 2002...
+2024-05-01 11:26:52 New connection accepted from 127.0.0.1:37960
+2024-05-01 11:26:54 New connection accepted from 127.0.0.1:37974
+2024-05-01 11:26:56 New connection accepted from 127.0.0.1:37986
+2024-05-01 11:27:03 New connection accepted from 127.0.0.1:42670
+2024-05-01 11:27:03 Connected Users: 3
+2024-05-01 11:27:03 SENDING BUSY SERVER MESSAGE
+2024-05-01 11:27:03 Server busy. Connection from 127.0.0.1:42670 terminated.
+2024-05-01 11:28:12 Server listening on port 2002...
+2024-05-01 11:28:16 Server listening on port 2012...
+2024-05-01 11:28:16 Server listening on port 2012...
+2024-05-01 11:28:21 New connection accepted from 127.0.0.1:35246
+2024-05-01 11:28:21 Connected Users: 0
+2024-05-01 11:28:41 Received image size: 7852 bytes
+2024-05-01 11:28:41 Image reception completed
+2024-05-01 11:28:41 Connected Users: 3
+2024-05-01 11:28:54 Received image size: 1 bytes
+2024-05-01 11:28:54 127.0.0.1:35246 has disconnected.
+2024-05-01 11:28:16 Server listening on port 2012...
+2024-05-01 11:28:16 Server listening on port 2012...
+2024-05-01 11:28:21 New connection accepted from 127.0.0.1:35246
+2024-05-01 11:28:31 New connection accepted from 127.0.0.1:55576
+2024-05-01 11:28:36 New connection accepted from 127.0.0.1:55586
+2024-05-01 11:29:52 New connection accepted from 127.0.0.1:52462
+2024-05-01 11:30:04 New connection accepted from 127.0.0.1:45232
+2024-05-01 11:30:04 Connected Users: 3
+2024-05-01 11:30:04 SENDING BUSY SERVER MESSAGE
+2024-05-01 11:30:04 Server busy. Connection from 127.0.0.1:45232 terminated.
+2024-05-01 11:28:16 Server listening on port 2012...
+2024-05-01 11:28:16 Server listening on port 2012...
+2024-05-01 11:28:21 New connection accepted from 127.0.0.1:35246
+2024-05-01 11:28:31 New connection accepted from 127.0.0.1:55576
+2024-05-01 11:28:36 New connection accepted from 127.0.0.1:55586
+2024-05-01 11:29:52 New connection accepted from 127.0.0.1:52462
+2024-05-01 11:29:52 Connected Users: 2
+2024-05-01 11:29:55 Received image size: 7852 bytes
+2024-05-01 11:29:55 Image reception completed
+2024-05-01 11:29:56 Connected Users: 3
+2024-05-01 11:30:13 Received image size: 1 bytes
+2024-05-01 11:30:13 127.0.0.1:52462 has disconnected.
+2024-05-01 11:28:16 Server listening on port 2012...
+2024-05-01 11:28:16 Server listening on port 2012...
+2024-05-01 11:28:21 New connection accepted from 127.0.0.1:35246
+2024-05-01 11:28:31 New connection accepted from 127.0.0.1:55576
+2024-05-01 11:28:36 New connection accepted from 127.0.0.1:55586
+2024-05-01 11:28:36 Connected Users: 2
+2024-05-01 11:29:32 Received image size: 7852 bytes
+2024-05-01 11:29:32 Image reception completed
+2024-05-01 11:29:32 Connected Users: 2
+2024-05-01 11:30:14 Received image size: 1 bytes
+2024-05-01 11:30:14 127.0.0.1:55586 has disconnected.
+2024-05-01 11:28:16 Server listening on port 2012...
+2024-05-01 11:28:16 Server listening on port 2012...
+2024-05-01 11:28:21 New connection accepted from 127.0.0.1:35246
+2024-05-01 11:28:31 New connection accepted from 127.0.0.1:55576
+2024-05-01 11:28:31 Connected Users: 1
+2024-05-01 11:29:17 Received image size: 7852 bytes
+2024-05-01 11:29:17 Image reception completed
+2024-05-01 11:29:17 Connected Users: 2
+2024-05-01 11:30:16 Received image size: 1 bytes
+2024-05-01 11:30:16 127.0.0.1:55576 has disconnected.

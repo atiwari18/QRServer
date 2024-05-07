@@ -1,0 +1,10 @@
+file:/tmp/qrcode_image.png (format: QR_CODE, type: URI):
+Raw result:
+http://web.cs.wpi.edu/~cshue/cs3516/
+Parsed result:
+http://web.cs.wpi.edu/~cshue/cs3516/
+Found 4 result points.
+  Point 0: (35.0,215.0)
+  Point 1: (35.0,35.0)
+  Point 2: (215.0,35.0)
+  Point 3: (197.0,197.0)
